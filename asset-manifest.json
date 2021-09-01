@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TodoHost/static/css/main.6d12a8cb.chunk.css",
+    "main.js": "/TodoHost/static/js/main.fa804faa.chunk.js",
+    "main.js.map": "/TodoHost/static/js/main.fa804faa.chunk.js.map",
+    "runtime-main.js": "/TodoHost/static/js/runtime-main.f47d0fec.js",
+    "runtime-main.js.map": "/TodoHost/static/js/runtime-main.f47d0fec.js.map",
+    "static/css/2.81332b62.chunk.css": "/TodoHost/static/css/2.81332b62.chunk.css",
+    "static/js/2.4fcc7dab.chunk.js": "/TodoHost/static/js/2.4fcc7dab.chunk.js",
+    "static/js/2.4fcc7dab.chunk.js.map": "/TodoHost/static/js/2.4fcc7dab.chunk.js.map",
+    "static/js/3.b7b24d4d.chunk.js": "/TodoHost/static/js/3.b7b24d4d.chunk.js",
+    "static/js/3.b7b24d4d.chunk.js.map": "/TodoHost/static/js/3.b7b24d4d.chunk.js.map",
+    "index.html": "/TodoHost/index.html",
+    "static/css/2.81332b62.chunk.css.map": "/TodoHost/static/css/2.81332b62.chunk.css.map",
+    "static/css/main.6d12a8cb.chunk.css.map": "/TodoHost/static/css/main.6d12a8cb.chunk.css.map",
+    "static/js/2.4fcc7dab.chunk.js.LICENSE.txt": "/TodoHost/static/js/2.4fcc7dab.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/TodoHost/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f47d0fec.js",
+    "static/css/2.81332b62.chunk.css",
+    "static/js/2.4fcc7dab.chunk.js",
+    "static/css/main.6d12a8cb.chunk.css",
+    "static/js/main.fa804faa.chunk.js"
+  ]
+}
